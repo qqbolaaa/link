@@ -1,9 +1,9 @@
 var url = Array(
-  "https://qqmybet77p.com/",
-  "https://qqmybet77p.com/",
-  "https://qqmybet77p.com/",
-  "https://qqmybet77p.com/",
-  "https://qqmybet77p.com/"
+  "https://www.youtube.com/",
+  "https://www.youtube.com/",
+  "https://www.youtube.com/",
+  "https://www.youtube.com/",
+  "https://www.youtube.com/"
 );
 var rid = "";
 
