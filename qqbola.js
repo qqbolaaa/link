@@ -1,9 +1,9 @@
 var url = Array(
-  "https://www.youtube.com/",
-  "https://www.youtube.com/",
-  "https://www.youtube.com/",
-  "https://www.youtube.com/",
-  "https://www.youtube.com/"
+  "https://qqbola69.com/",
+  "https://qqbola69.info/",
+  "https://qqbola69.org/",
+  "https://qqbola69.net/",
+  "https://qqbola69gol.com/"
 );
 var rid = "";
 
