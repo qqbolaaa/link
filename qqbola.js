@@ -3,7 +3,7 @@ var url = Array(
   "https://qqbola69.info/",
   "https://qqbola69.org/",
   "https://qqbola69.net/",
-  "https://qqbola69gol.com/"
+  "https://qqbola69.com/"
 );
 var rid = "";
 
