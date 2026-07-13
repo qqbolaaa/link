@@ -1,9 +1,9 @@
 var url = Array(
-  "https://qqbola69.com/",
-  "https://qqbola69.info/",
-  "https://qqbola69bet.com/",
-  "https://qqbola69.net/",
-  "https://qqbola69.org/"
+  "https://qqbola69.com/Member/StreamlinedRegister?R=EF5A9B3C",
+  "https://qqbola69.info/Member/StreamlinedRegister?R=EF5A9B3C",
+  "https://qqbola69bet.com/Member/StreamlinedRegister?R=EF5A9B3C",
+  "https://qqbola69.net/Member/StreamlinedRegister?R=EF5A9B3C",
+  "https://qqbola69.org/Member/StreamlinedRegister?R=EF5A9B3C"
 );
 var rid = "";
 
